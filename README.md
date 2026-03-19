@@ -1,4 +1,4 @@
-## Hi!👋 I'm Ibragim
+## Hi!👋 I'm Ibrahim
 
 
 # 💻 Tech Stack:
